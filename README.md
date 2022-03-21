@@ -8,7 +8,7 @@ With that being said, i am at a point where i am considering publishing it to th
 
 The app is still being developed to finish implementing all features that the official Tesla app has as well as the competitor has.
 
-Some images:
+Some screenshots:
 
 ![alt text](https://github.com/haha150/wTesla-IOS/blob/main/cars.png)
 ![alt text](https://github.com/haha150/wTesla-IOS/blob/main/asleep.png)
