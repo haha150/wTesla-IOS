@@ -36,6 +36,10 @@ Currently, you have to provide your token to the app for it to download it and b
 
 If there is some feature that you want to be implemented in the app, create a issue on this github page and i will take a look.
 
+## Have questions or require assistance?
+
+Create a issue on this github page.
+
 ## Some screenshots:
 
 ![alt text](https://github.com/haha150/wTesla-IOS/blob/main/cars.png)
