@@ -32,6 +32,10 @@ Currently, you have to provide your token to the app for it to download it and b
 
 > The reason the app uses this way to login is due to Teslas authentication process, as soon as they provide a better way to authenticate using e.g. credentials, i will update the app.
 
+## Current features
+
+
+
 ## Feature request
 
 If there is some feature that you want to be implemented in the app, create a issue on this github page and i will take a look.
