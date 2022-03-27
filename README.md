@@ -30,7 +30,7 @@ Currently, you have to provide your token to the app for it to download it and b
 4. Specify the link to the token in the apps login page, you only need to this one time
 5. Enjoy
 
-Comment: The reason the app uses this way to login is due to Teslas authentication process, as soon as they provide a better way to authenticate using e.g. credentials, i will update the app.
+> The reason the app uses this way to login is due to Teslas authentication process, as soon as they provide a better way to authenticate using e.g. credentials, i will update the app.
 
 ## Some screenshots:
 
