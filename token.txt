@@ -1,0 +1,7 @@
+{
+  "access_token": "eyJaccess",
+  "refresh_token": "eyJrefresh",
+  "id_token": "id",
+  "expires_in": 300,
+  "token_type": "Bearer"
+}
