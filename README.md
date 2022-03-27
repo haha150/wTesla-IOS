@@ -32,7 +32,7 @@ Currently, you have to provide your token to the app for it to download it and b
 
 Comment: The reason the app uses this way to login is due to Teslas authentication process, as soon as they provide a better way to authenticate using e.g. credentials, i will update the app.
 
-Some screenshots:
+## Some screenshots:
 
 ![alt text](https://github.com/haha150/wTesla-IOS/blob/main/cars.png)
 ![alt text](https://github.com/haha150/wTesla-IOS/blob/main/asleep.png)
