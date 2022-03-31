@@ -85,15 +85,17 @@ I will never ask for donations, however if you like the app and would like to he
 
 ## Some screenshots:
 
-<img src="loadapp.png" width="200">
-<img src="logintoken.png" width="200">
-<img src="loginweblink.png" width="200">
-<img src="vehicles.png" width="200">
-<img src="loggingin.png" width="200">
-<img src="asleep.png" width="200">
-<img src="online.png" width="200">
-<img src="actions.png" width="200">
-<img src="climate.png" width="200">
-<img src="climate2.png" width="200">
-<img src="charging.png" width="200">
-<img src="notcharging.png" width="200">
+<p float="left">
+  <img src="loadapp.png" width="200">
+  <img src="logintoken.png" width="200">
+  <img src="loginweblink.png" width="200">
+  <img src="vehicles.png" width="200">
+  <img src="loggingin.png" width="200">
+  <img src="asleep.png" width="200">
+  <img src="online.png" width="200">
+  <img src="actions.png" width="200">
+  <img src="climate.png" width="200">
+  <img src="climate2.png" width="200">
+  <img src="charging.png" width="200">
+  <img src="notcharging.png" width="200">
+</p>
