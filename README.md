@@ -85,7 +85,7 @@ I will never ask for donations, however if you like the app and would like to he
 
 ## Some screenshots:
 
-![alt text](https://github.com/haha150/wTesla-IOS/blob/main/loadapp.png)
+![alt text](loadapp.png)
 ![alt text](https://github.com/haha150/wTesla-IOS/blob/main/logintoken.png)
 ![alt text](https://github.com/haha150/wTesla-IOS/blob/main/loginweblink.png)
 ![alt text](https://github.com/haha150/wTesla-IOS/blob/main/vehicles.png)
