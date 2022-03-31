@@ -2,6 +2,8 @@
 
 <img src="wt.png" width="100">
 
+**Created by: Ali Symeri**
+
 This project is a standalone Tesla app for the Apple watch with all the features that the official Tesla app has.
 
 The main purpose for creating this app is to essentially make the competitor "Watch app for Tesla" obsolete. To be honest, the competitor is scamming people out of $11.99 and personally i dont like this kind of behaviour. Link to competitor for reference: [trash](https://apps.apple.com/us/app/watch-app-for-tesla/id1512108917).
