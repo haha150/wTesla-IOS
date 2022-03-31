@@ -24,7 +24,7 @@ Currently, you have to provide your token to the app for it to download it and b
 
 ### Alternative 1: Steps to login with refresh token
 
-1. Generate your token following [this]
+1. Generate your token following [this](https://tesla-api.timdorr.com/api-basics/authentication).
 2. Copy the refresh_token
 3. Provide the refresh_token in the app login page, you only need to this one time
 4. Enjoy
