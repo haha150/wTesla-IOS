@@ -1,6 +1,6 @@
 # wTesla-IOS
 
-<img align="left" style="margin-right: 10px" src="wt.png" width="100">
+<img src="wt.png" width="100">
 
 This project is a standalone Tesla app for the Apple watch with all the features that the official Tesla app has.
 
