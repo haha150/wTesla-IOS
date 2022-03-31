@@ -41,7 +41,32 @@ Currently, you have to provide your token to the app for it to download it and b
 
 ## Current features
 
-
+* Login with refresh token
+* Login with full token
+* Logout
+* List all vehicles
+* Select specific vehicle
+* Wake up vehicle
+* View vehicle name
+* View vehicle battery
+* Lock/unlock vehicle
+* Turn on/off HVAC
+* Open frunk
+* Open/close trunk
+* Turn on/off sentry mode
+* Open/close charge port
+* Honk horn
+* Flash lights
+* Remote start
+* Vent/close windows
+* View climate
+* Set climate temperature
+* Defrost vehicle
+* Turn on/off steering wheel heater
+* View charging stats
+* Set charging limit
+* Start/stop charging
+* Unlock charging port
 
 ## Feature request
 
