@@ -22,12 +22,19 @@ Currently, you have to provide your token to the app for it to download it and b
 }
 ```
 
-### Steps to login
+### Alternative 1: Steps to login with refresh token
+
+1. Generate your token following [this]
+2. Copy the refresh_token
+3. Provide the refresh_token in the app login page, you only need to this one time
+4. Enjoy
+
+### Alternative 2: Steps to login with full token
 
 1. Generate your token following [this](https://tesla-api.timdorr.com/api-basics/authentication).
 2. Save it to a file
 3. Host the file on a webserver/fileserver that the app can access
-4. Specify the link to the token in the apps login page, you only need to this one time
+4. Provide the link to the token in the app login page, you only need to this one time
 5. Enjoy
 
 > The reason the app uses this way to login is due to Teslas authentication process, as soon as they provide a better way to authenticate using e.g. credentials, i will update the app.
