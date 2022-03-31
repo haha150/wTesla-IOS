@@ -1,4 +1,4 @@
-# wTesla-IOS
+# wTesla-IOS - Watch app
 
 <img src="wt.png" width="100">
 
