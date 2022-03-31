@@ -10,7 +10,7 @@ The main purpose for creating this app is to essentially make the competitor "Wa
 
 With that being said, i am at a point where i am considering publishing it to the app store either for free or $1 or $2.
 
-The app is still being developed to finish implementing all features that the official Tesla app has as well as the competitor has.
+The app is still being developed to finish implementing all features that the official Tesla app has as well as the competitor has. It will continue to receive new features if requested and if Tesla adds additional features.
 
 See [wTesla](https://haha150.github.io/wTesla) for more information.
 
