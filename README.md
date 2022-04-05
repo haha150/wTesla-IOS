@@ -20,7 +20,7 @@ If there is some feature that you want to be implemented in the app, create a is
 
 ## Have questions or require assistance?
 
-Create a issue on this github page.
+Create an issue on this github page.
 
 ## Donate
 
